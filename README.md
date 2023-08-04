@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a software engineer with a solid background in building enterprise SaaS solutions
+
 <!--
 **ar1k/ar1k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
